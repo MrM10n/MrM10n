@@ -1,0 +1,3 @@
+- Hi, I’m @MrM10n im a junior Python developer, and a middle level HTML and CSS developer too.
+- I’m interested in learn Python and JavaScript
+- I’m currently learning Python.
