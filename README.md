@@ -8,9 +8,10 @@ Tengo distintos repositorios los cuales son
 
 # Que lenguajes estoy aprendiendo
 
-Por el momento yo estoy aprendiendo 4 lenguajes 
+Por el momento yo estoy aprendiendo 5 lenguajes 
 
 1. CSS
 2. Python
 3. Java
 4. C++
+5. JavaScript
