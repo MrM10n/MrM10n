@@ -1,0 +1,102 @@
+Bien, este es un ejemplo de un lenguaje de broma que me gustaría hacer jajaja. es un lenguake parecido a JavaScript pero con lexico mexicano, usando cosas como vergazo para hacer una funcion flecha.
+cosas como reduce() son ahora chingarse() y filter() son colador()
+
+
+// Definición del Jodidobjeto "Cuate"
+chido Jodidobjeto Cuate {
+    chale nombre
+    chale edad
+    chale genero
+
+    // Constructor del Jodidobjeto
+    chido constructor(nom, edad, gen) {
+        esemero.nombre = nom
+        esemero.edad = edad
+        esemero.genero = gen
+    }
+
+    // Método del Jodidobjeto para saludar
+    chido saludar() {
+        chale "¡Qué pedo, banda! Soy " + this.nombre + ", tengo " + this.edad + " años y soy " + this.genero + ". ¡Viva México, putos!"
+    }
+
+    // Método del Jodidobjeto para insultar
+    chido insultar() {
+        chale "¡A chingar a su madre todos, bola de pinches pendejos! ¡Sigan mamando!"
+    }
+}
+
+// Crear instancias del Jodidobjeto "Cuate"
+chale "Creando unos cuates, compadre..."
+chido cuate1 = nuevo Cuate("Juanito", 25, "machín")
+chido cuate2 = nuevo Cuate("Panchita", 30, "chida")
+
+// Llamar a los métodos de los cuates
+chale "¡Saludando a los cuates!"
+cuate1.saludar()
+cuate2.saludar()
+
+chale "¡Insultando a los cuates!"
+cuate1.insultar()
+cuate2.insultar()
+
+// Ejemplo de bucle "pa que no se te olvide" con vergazo
+chale "Contando hasta 5, güey..."
+chido i = 1
+mientras (i <= 5) {
+    chale i
+    i++
+}
+
+// Ejemplo de bucle "pa que no se te olvide" con for
+chale "Contando hasta 10, cabrón..."
+por (chido j = 1; j <= 10; j++) {
+    chale j
+}
+
+// Ejemplo de condicional "a toda madre"
+chale "Dame un número, compa:"
+chido numero = leer()
+si (numero > 0) {
+    chale "¡A huevo, el número es positivo!"
+} siNo {
+    chale "¡Pinche número negativo! ¡Qué chingue a su madre!"
+}
+
+// Ejemplo de operadores lógicos con léxico mexicano
+chale "Vamos a hacer unas comparaciones, camarada..."
+chido x = 5
+chido y = 10
+chido z = 15
+
+si (x < y o y < z) {
+    chale "¡Todo en orden, chavo!"
+}
+
+si (x > y y y > z) {
+    chale "¡Estamos en la chingada, mi buen!"
+}
+
+siNo {
+    chale "¡No mames, compa!"
+}
+
+chale "La negación de verdadero es: " + vergazo(verdadero)
+
+// Ejemplo de función lambda en JodidoScript
+chale "Calculando el cuadrado de algunos números, compa..."
+chido numeros = [2, 4, 6, 8, 10]
+
+chido cuadrado = vergazo(numero) => {
+    vergazo(numero * numero)
+}
+
+chale "Los cuadrados son:"
+chido cuadrados = numeros.map(cuadrado)
+chale cuadrados
+
+chale "Usando la expresión 'vergazo' como función anónima"
+chale numeros.colador(vergazo(numero > 5))
+
+chale "Usando el 'vergazo'"
+chale numeros.chingarse(vergazo(acumulador, numero) 8=D acumulador + numero, 0)
